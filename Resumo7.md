@@ -1,7 +1,7 @@
 # Resumo Week 7 - Regular Expressions
 >Regular expressions, ou "regex", são utilizadas para examinar padrões dentro de um texto. No contexto de validação de entrada do usuário, as regexes são extremamente úteis para garantir que a entrada siga um padrão específico, como no caso de validar endereços de e-mail.
 
-## **1. 🔵 Funções da biblioteca re do Python**
+## **🔵 1. Funções da biblioteca re do Python**
 
 ### ***`re.compile(padrao, flags=0)`***
 - Compila um padrão de expressão regular em um objeto regex.
